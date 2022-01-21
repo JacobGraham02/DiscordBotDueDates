@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/138f3b98-a2e5-4bfb-b706-238046c57a48/resourceGroups/rg-discord-due-dates-bot/providers/Microsoft.Web/sites/DiscordDueDatesBot",
+    "appService.deploySubpath": "."
+}
